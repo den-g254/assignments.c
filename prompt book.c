@@ -1,7 +1,7 @@
 //c structure
 /*program for prompt book
-author:vienna kimani
-reg:CT102/G/24668/24
+Author:Mugendi Denzel Gitonga
+Reg No:CT101/G/24518/24
 Date:22/10/2024
 */
 #include<stdio.h>
